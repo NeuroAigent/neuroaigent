@@ -1,0 +1,16 @@
+# Defensive: this repo is docs + examples only. Never commit application or plugin code or secrets.
+*.php
+*.exe
+*.dll
+*.zip
+*.env
+.env*
+*.key
+*.pem
+*.pfx
+*secret*
+*credential*
+wp-config*
+neuroaigent-suite/
+node_modules/
+vendor/
