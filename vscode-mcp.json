@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "central-brain": {
+      "type": "stdio",
+      "command": "C:\\Program Files\\NeuroAIgent\\Central Brain\\NeuroAIgent.CentralBrain.exe",
+      "args": ["--run-mcp-stdio", "--root", "C:\\Projects\\my-project"]
+    }
+  }
+}
